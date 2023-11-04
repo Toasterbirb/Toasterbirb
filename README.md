@@ -1,2 +1,7 @@
 ### README.md
-Wannabe programmer sharing the forbidden source files on the web. [Birbs](https://www.youtube.com/watch?v=8q-2xnEcv4A) are cute btw
+Wannabe programmer sharing the forbidden source files on the web.
+
+[ insert cool github statistics widgets here ]
+
+> **Note**
+> Any repositories that have [MIRROR] in their description are mirrored from my [locally hosted git server](http://birbgitfh224rep6tmdofmr6qlo6wx43umqzt3hjubnncr55sdlfmtad.onion/) and the development happens mainly there. If you want to contribute to them, reach out to me via [matrix](@toasterbirb:tchncs.de) and request an account.
